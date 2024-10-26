@@ -1,3 +1,4 @@
+import React from 'react';
 import Link from '../src/components/Link';
 
 export default function HomePage() {
